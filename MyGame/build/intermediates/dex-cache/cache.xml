@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\LibGDX\MyGame\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="406383bbf3a50b178444b0535421f8a92451a9c5">
+        <dex dex="F:\LibGDX\MyGame\android\build\intermediates\pre-dexed\debug\core-1.0-c715b33885b2566fc81a247163abf107b5023e07.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shoom\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.7.1\2179cc613447c297623a4a6d2ba6692c3aaff804\gdx-1.7.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2179cc613447c297623a4a6d2ba6692c3aaff804">
+        <dex dex="F:\LibGDX\MyGame\android\build\intermediates\pre-dexed\debug\gdx-1.7.1-bead52791601d8b7d2294e4cc2110f52b7c2eebe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shoom\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.7.1\454871d4783564f17959bf9247660e7f56ecc4ab\gdx-backend-android-1.7.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="454871d4783564f17959bf9247660e7f56ecc4ab">
+        <dex dex="F:\LibGDX\MyGame\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.7.1-f1e473c300c048196b33270e70a832a5870577fb.jar" />
+    </item>
+
+</items>
